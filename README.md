@@ -10,5 +10,6 @@ Use GrimAC https://github.com/MWHunter/Grim ( not very stable and do not have a 
 Use zHack Anticheat Lite when its updated https://polymart.org/resource/zhack-anticheat-lite.460
 
 # Credits
-Thanks for people that dming me ( i keep all the names private )
+Thanks for people that dming me ( i keep some names private if you want to keep it private )
 Thanks for the team of Matrix for all the works , i just created a repo not the anticheat
+Thanks for QuackDuck for some old Matrix releases
