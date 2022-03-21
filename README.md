@@ -1,6 +1,6 @@
 # Matrix Trial Archive
 Matrix Trial Archive
-I do not have create Matrix and never dev for Matrix
+All the rights is for Matrix Team i do not do anything and its a trial so buying the Premium or Enterprise would be better for you and for us the discord : https://discord.matrix.rip/
 If anyone have older Matrix please dm me on discord Macintosh HD#4861 and i would add on this archive
 I dont crack anything so you don't sue me
 
@@ -10,3 +10,4 @@ Use zHack Anticheat Lite when its updated https://polymart.org/resource/zhack-an
 
 # Credits
 Thanks for people that dming me ( i keep all the names private )
+Thanks for the team of Matrix for all the works , i just created a repo not the anticheat
