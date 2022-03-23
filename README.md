@@ -1,7 +1,7 @@
 # Matrix Trial Archive
 Matrix Trial Archive
 All the rights is for Matrix Team i do not do anything and its a trial so buying the Premium or Enterprise would be better for you and for us the discord : https://discord.matrix.rip/
-If anyone have older Matrix please dm me on discord Macintosh HD#4861 and i would add on this archive
+If anyone have older Matrix please dm me on discord Macintosh SE#4861 and i would add on this archive
 I dont crack anything so you don't sue me
 And D O  N O T  T R Y  T O  C R A C K  M A T R I X  W I T H  T H E  F I L E S
 
