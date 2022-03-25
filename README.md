@@ -8,6 +8,9 @@ And D O  N O T  T R Y  T O  C R A C K  M A T R I X  W I T H  T H E  F I L E S
 # Latest Download 
 https://github.com/Super-Macintosh/matrix-trial-archive/blob/main/Matrix_6.7.0_release.jar
 
+# What config should i use ?
+I recommend https://github.com/QuantumSuite/MatrixChecks
+
 # I want to use an other free anticheat what should i choose
 Use GrimAC https://github.com/MWHunter/Grim ( not very stable and do not have a lot of checks but the checks working very good and atm 1.8 is a bit unsupported )
 Use zHack Anticheat Lite when its updated https://polymart.org/resource/zhack-anticheat-lite.460
